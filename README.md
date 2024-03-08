@@ -10,3 +10,4 @@ Este projeto é um gerador de senhas simples, desenvolvido utilizando HTML, CSS 
 ## Como executar o projeto:
 
 - Acesse: https://jasmincordeiro.github.io/GeradorDeSenhas/
+ 
